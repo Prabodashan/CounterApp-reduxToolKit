@@ -1,4 +1,4 @@
-# React 18 Starter Project
+# CounterApp-reduxToolKit
 
 ## Available Scripts
 
